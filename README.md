@@ -20,6 +20,15 @@ This is a crud app for adding, updating and deleting courses using React &amp; R
 - Destructuring
 - Spread Operator
 
+## Tools and Tech Stack
+
+- React & Redux
+- Node
+- Webpack
+- Babel
+- ESLint
+- npm Scripts
+
 ## What I am learning through this app
 
 - Linting code and testing
