@@ -20,7 +20,7 @@ This is a crud app for adding, updating and deleting courses using React &amp; R
 - Destructuring
 - Spread Operator
 
-# What I am learning through this app
+## What I am learning through this app
 
 - Linting code and testing
 - Transpiling ES6 to ES5
